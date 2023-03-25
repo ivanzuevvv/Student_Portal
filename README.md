@@ -1,4 +1,4 @@
-# Student_Portal
+# Django_Student_Portal
 This is an Diango Student Dashboard Project i.e. Student
 Study Portal have 8 sections
 1. Notes
